@@ -278,6 +278,7 @@ Compute:
 
 ### Boilerplate
 
+- [Gemini AI Suite](https://github.com/skappax/gemini-ai-suite) - Production FastAPI microservices for B2B multimodal document parsing and AI support triage using Google Gemini 2.5 and Pydantic V2. [Demo](https://skappax.github.io/gemini-ai-suite/)
 - [Full Stack FastAPI and PostgreSQL - Base Project Generator](https://github.com/fastapi/full-stack-fastapi-template) - Full Stack FastAPI Template
 , which includes FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS, and more (developed by the creator of FastAPI, [Sebastián Ramírez](https://github.com/tiangolo)).
 - [FastAPI and Tortoise ORM](https://github.com/prostomarkeloff/fastapi-tortoise) - Powerful but simple template for web APIs w/ FastAPI (as web framework) and Tortoise-ORM (for working via database without headache).
